@@ -1,5 +1,5 @@
 name: 'fala-poc-eks'
-author: Ian Belcher
+author: Roberto Esparza
 description: An action allowing you to integrate with EKS via kubectl in a Github Action, easily...
 branding:
   color: 'white'
